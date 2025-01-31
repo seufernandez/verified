@@ -79,6 +79,7 @@ http://localhost:3000/api-docs
 ```
 
 ## 📖 Observations and Suggestions
+The application was implemented according to the test instructions. However, if I were to develop it based on my experience, here are my observations:
 
 1. **Websockets:** Use WebSockets for real-time messaging instead of polling.
 2. **User Management:** Replace mocked users with UUIDs for dynamic user management.
