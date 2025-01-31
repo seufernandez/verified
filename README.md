@@ -14,6 +14,31 @@ This repository contains the implementation of a backend API developed as part o
 	- uuid (UUID generation)
 	- zod (Data validation library)
 
+Technology Stack Rationale:
+
+Node.js (TypeScript)
+Provides type safety, enhances code quality, prevents runtime errors through compile-time checking.
+
+Express
+Lightweight framework for rapid API development, supports modular architecture.
+
+In-Memory Database
+Simplifies testing, accelerates development by removing external database complexities.
+
+Mocked Authentication
+Isolates authentication logic, enables focused feature development.
+
+dotenv
+Manages environment configurations securely, separates credentials from code.
+
+Swagger UI
+Generates interactive API documentation, supports developer communication and easy requests testing.
+
+uuid
+Generates unique identifiers, ensures data integrity across systems.
+
+Architecture Principle: Clean architecture approach maximizing maintainability and scalability.
+
 ## 🚀 Setup and Execution
 
 ### 1️⃣ Prerequisites
