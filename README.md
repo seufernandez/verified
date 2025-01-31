@@ -26,9 +26,9 @@ Make sure you have installed [Node.js](https://nodejs.org/)
 Clone this repository and install dependencies:
 
 ```sh
-git clone https://github.com/seufernandez/verifiedinc.git
+git clone https://github.com/seufernandez/verified.git
 
-cd verifiedinc
+cd verified
 
 npm install
 ```
