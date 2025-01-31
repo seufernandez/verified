@@ -38,7 +38,7 @@ npm install
 Create a `.env` file with the required environment variables (or just rename the .env.example):
 
 ```env
-	NODE_ENV=development
+	NODE_ENV=development # for debugging proposals
 	PORT=3000
 ```
 
